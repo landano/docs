@@ -5,7 +5,7 @@ description: Concept. Requirements. Architecture. Product. Manual.
 # The Landano software system
 
 {% hint style="info" %}
-**Good to know:** Landano is a decentralized App (dApp) that is integrated with the Cardano blockchain and self-sovereign identity and data solutions.
+**Good to know:** Landano is a decentralized App (dApp) for land records that is integrated with the Cardano blockchain and self-sovereign identity and data solutions.
 
 
 {% endhint %}
