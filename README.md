@@ -32,16 +32,16 @@ Please sit tight will we get our docs sorted out for you. Nothing to see here fo
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="fundamentals/land-registration.md" %}
+[land-registration.md](fundamentals/land-registration.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="fundamentals/cadastral-maps.md" %}
+[cadastral-maps.md](fundamentals/cadastral-maps.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="fundamentals/records-management/" %}
+[records-management](fundamentals/records-management/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -52,20 +52,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals-1/projects.md" %}
+[projects.md](fundamentals-1/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="fundamentals-1/members.md" %}
+[members.md](fundamentals-1/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="fundamentals-1/task-lists.md" %}
+[task-lists.md](fundamentals-1/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="fundamentals-1/tasks.md" %}
+[tasks.md](fundamentals-1/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

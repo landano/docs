@@ -2,18 +2,21 @@
 
 * [The Landano software system](README.md)
 
-## Guides
+## Fundamentals
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Legal jurisdiction](fundamentals/legal-jurisdiction.md)
+* [Land registration](fundamentals/land-registration.md)
+* [Cadastral maps](fundamentals/cadastral-maps.md)
+* [Records Management](fundamentals/records-management/README.md)
+  * [NFT minting](fundamentals/records-management/nft-minting.md)
+  * [Archival Storage](fundamentals/records-management/archival-storage.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](fundamentals-1/projects.md)
+* [Members](fundamentals-1/members.md)
+* [Task Lists](fundamentals-1/task-lists.md)
+* [Tasks](fundamentals-1/tasks.md)
 
 ## Use Cases
 
