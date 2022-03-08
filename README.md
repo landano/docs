@@ -32,12 +32,12 @@ Please sit tight will we get our docs sorted out for you. Nothing to see here fo
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="fundamentals/land-registration.md" %}
-[land-registration.md](fundamentals/land-registration.md)
+{% content-ref url="fundamentals/land-registries/" %}
+[land-registries](fundamentals/land-registries/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/cadastral-maps.md" %}
-[cadastral-maps.md](fundamentals/cadastral-maps.md)
+{% content-ref url="fundamentals/land-registries/cadastral-maps.md" %}
+[cadastral-maps.md](fundamentals/land-registries/cadastral-maps.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/records-management/" %}
@@ -52,20 +52,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals-1/projects.md" %}
-[projects.md](fundamentals-1/projects.md)
+{% content-ref url="countries/ghana.md" %}
+[ghana.md](countries/ghana.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals-1/members.md" %}
-[members.md](fundamentals-1/members.md)
+{% content-ref url="countries/kenya.md" %}
+[kenya.md](countries/kenya.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals-1/task-lists.md" %}
-[task-lists.md](fundamentals-1/task-lists.md)
+{% content-ref url="countries/mozambique.md" %}
+[mozambique.md](countries/mozambique.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals-1/tasks.md" %}
-[tasks.md](fundamentals-1/tasks.md)
+{% content-ref url="countries/canada.md" %}
+[canada.md](countries/canada.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
