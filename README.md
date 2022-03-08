@@ -10,17 +10,13 @@ description: Concept. Requirements. Architecture. Product. Manual.
 
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+Please sit tight will we get our docs sorted out for you. Nothing to see here for now. Be well and be kind.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Videoxapi is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> With Videoxapi, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Videoxapi's patented technology.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> The NoiseApe Marketing API provides programmatic access to NoiseApe data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
 
 ## Getting Started
 
