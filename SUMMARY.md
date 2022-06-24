@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Landano software system](README.md)
+* [Landano documentation](README.md)
 
 ## Fundamentals
 
