@@ -2,27 +2,32 @@
 
 * [Documentation](README.md)
 
+## Installation
+
+* [Smartphone app](installation/smartphone-app.md)
+* [Web app](installation/web-app.md)
+
 ## User manual
 
-* [Import data](user-manual/import-data.md)
-* [Register land title](user-manual/register-land-title.md)
-* [Verify ownership](user-manual/verify-ownership.md)
-* [Transfer land title](user-manual/transfer-land-title.md)
+* [Import data](use-cases/import-data.md)
+* [Register land title](use-cases/register-land-title.md)
+* [Verify ownership](use-cases/verify-ownership.md)
+* [Transfer land title](use-cases/transfer-land-title.md)
 
 ## Concepts
 
 * [Land rights](concepts/land-rights.md)
-* [Land registry](concepts/land-registry.md)
-* [Cadastral map](concepts/cadastral-map.md)
-* [Records management](concepts/records-management.md)
+* [Land registry](fundamentals/land-registries/README.md)
+* [Cadastral map](fundamentals/land-registries/cadastral-maps.md)
+* [Records management](fundamentals/records-management/README.md)
 * [Blockchain](concepts/blockchain.md)
 
 ## Jurisdictions
 
-* [Ghana](jurisdictions/ghana.md)
-* [Mozambique](jurisdictions/mozambique.md)
-* [Kenya](jurisdictions/kenya.md)
-* [Canada](jurisdictions/canada.md)
+* [Ghana](countries/ghana.md)
+* [Mozambique](countries/mozambique.md)
+* [Kenya](countries/kenya.md)
+* [Canada](countries/canada.md)
 
 ## Resources
 
