@@ -1,5 +1,3 @@
-import DocCardList from '@theme/DocCardList'; import {findSidebarItem} from '@site/src/sidebarUtils';
-
 ---
 description: >-
   Landano is a decentralized App (dApp) for land records that is integrated with
@@ -7,5 +5,3 @@ description: >-
 ---
 
 # Documentation
-
-<DocCardList items={[ findSidebarItem('Installation'), findSidebarItem('User manual'), findSidebarItem('Concepts'), findSidebarItem('Jurisdictions'), findSidebarItem('Resources'), ]} />
