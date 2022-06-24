@@ -2,29 +2,27 @@
 
 * [Documentation](README.md)
 
-## Fundamentals
+## User manual
 
-* [Land registries](fundamentals/land-registries/README.md)
-  * [Cadastral maps](fundamentals/land-registries/cadastral-maps.md)
-  * [Legal jurisdictions](fundamentals/land-registries/legal-jurisdictions.md)
-* [Records Management](fundamentals/records-management/README.md)
-  * [Blockchain records](fundamentals/records-management/blockchain-records.md)
-  * [NFT minting](fundamentals/records-management/nft-minting.md)
-  * [Archival Storage](fundamentals/records-management/archival-storage.md)
+* [Import data](user-manual/import-data.md)
+* [Register land title](user-manual/register-land-title.md)
+* [Verify ownership](user-manual/verify-ownership.md)
+* [Transfer land title](user-manual/transfer-land-title.md)
 
-## Use Cases
+## Concepts
 
-* [Import data](use-cases/import-data.md)
-* [Register land title](use-cases/register-land-title.md)
-* [Verify ownership](use-cases/verify-ownership.md)
-* [Transfer land title](use-cases/transfer-land-title.md)
+* [Land rights](concepts/land-rights.md)
+* [Land registry](concepts/land-registry.md)
+* [Cadastral map](concepts/cadastral-map.md)
+* [Records management](concepts/records-management.md)
+* [Blockchain](concepts/blockchain.md)
 
-## Countries
+## Jurisdictions
 
-* [Canada](countries/canada.md)
-* [Ghana](countries/ghana.md)
-* [Kenya](countries/kenya.md)
-* [Mozambique](countries/mozambique.md)
+* [Ghana](jurisdictions/ghana.md)
+* [Mozambique](jurisdictions/mozambique.md)
+* [Kenya](jurisdictions/kenya.md)
+* [Canada](jurisdictions/canada.md)
 
 ## Resources
 
