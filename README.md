@@ -6,3 +6,4 @@ description: >-
 
 # Documentation
 
+<DocCardList items={[ findSidebarItem('Installation'), findSidebarItem('User manual'), findSidebarItem('Concepts'), findSidebarItem('Jurisdictions'), findSidebarItem('Resources'), ]} />
