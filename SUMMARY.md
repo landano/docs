@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Landano documentation](README.md)
+* [Documentation](README.md)
 
 ## Fundamentals
 
