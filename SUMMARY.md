@@ -19,6 +19,7 @@
 * [Land rights](concepts/land-rights.md)
 * [Land registry](fundamentals/land-registries/README.md)
 * [Cadastral map](fundamentals/land-registries/cadastral-maps.md)
+* [Land administration](concepts/land-administration.md)
 * [Records management](fundamentals/records-management/README.md)
 * [Cardano blockchain](concepts/blockchain.md)
 
