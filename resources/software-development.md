@@ -43,8 +43,21 @@ Some examples include:
 
 `As a Village Chief, I want to access the Cadastral boundaries of our communal land so that I can accurately manage my fiduciary responsibilities.`
 
-As a Land User, I want to access the layout map of the communal land so that I can accurately determine the location of land parcels.
+`As a Land User, I want to access the layout map of the communal land so that I can accurately determine the location of land parcels.`\
+``\
+`As a Lawyer, I want to access the Allocation Notes for a contested area so that I can accurately represent my client’s claims in a Land User dispute.`
 
-****
+### Other software requirements
+
+Once there is clarity around the stories, the systems analysts and software developers will draft more granular requirements artifacts.&#x20;
+
+These could include:&#x20;
+
+1. Gherkin tests \[1] \[2] (Given-When-Then statements)&#x20;
+2. functional requirement statements (The software must/should do …)&#x20;
+3. non-functional quality requirement statements (e.g. must/should statements about minimum performance expectations/criteria)&#x20;
+4. data model requirements (often described in graphical format as an Entity-Relationship diagram or UML Class model, etc)&#x20;
+5. Sequence, interaction, workflow, and activity diagrams&#x20;
+6. User interface mockups
 
 ****
