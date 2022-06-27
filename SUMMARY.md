@@ -33,4 +33,5 @@
 ## Resources
 
 * [Bibliography](resources/bibliography.md)
+* [Software requirements](resources/software-requirements.md)
 * [Software development](resources/software-development.md)

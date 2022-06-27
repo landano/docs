@@ -12,7 +12,7 @@ The purpose of this document is to describe Landano’s software development met
 
 ## Scrum methodology
 
-The Landano software development methodology is a customized version of SCRUM which is the predominant software development methodology within the Agile Software development family of practices.
+The Landano software development methodology is a customized version of [SCRUM](https://www.atlassian.com/agile/scrum) which is the predominant software development methodology within the Agile Software development family of practices.
 
 It follows this process:
 
@@ -21,7 +21,7 @@ It follows this process:
 3. Each story is added to the Backlog lists which imposes a priority order. These priority rankings will be established by the Project Owner.
 4. Once the Backlog is created, the SCRUM team will work through the tasks on the list from top to bottom, dividing the work into “sprints”. A sprint is just a short, time-boxed period (e.g. 1 week, 2 weeks) when a scrum team works to complete a set amount of work. A Sprint will be initiated by a Refinement Meeting wherein the team will decide which backlog items can be accomplished within a short period of time (i.e. 2 weeks).
 5. The team will play Planning Poker in which a SCRUM team predicts the necessary time to complete each of the tasks within a sprint and assign labels accordingly to each task to indicate the scale of work required.
-6. The sprint will include regularly scheduled standup meetings. In most projects, these are held daily but these could be held less regularly (e.g. weekly) or asynchronous in a chat room for projects where team members are widely dispersed across time-zones.
+6. The sprint will include regularly scheduled [standup meetings](https://www.atlassian.com/agile/scrum/standups). In most projects, these are held daily but these could be held less regularly (e.g. weekly) or asynchronous in a chat room for projects where team members are widely dispersed across time-zones.
 7. In the standup meeting, each team member will report:
    1. What I worked on since our last sprint meeting.&#x20;
    2. What I am working on next.&#x20;
@@ -53,7 +53,7 @@ Once there is clarity around the stories, the systems analysts and software deve
 
 These could include:&#x20;
 
-1. Gherkin tests \[1] \[2] (Given-When-Then statements)&#x20;
+1. [Gherkin features](https://www.tutorialspoint.com/behavior\_driven\_development/behavior\_driven\_development\_gherkin.htm) (Given-When-Then statements)&#x20;
 2. functional requirement statements (The software must/should do …)&#x20;
 3. non-functional quality requirement statements (e.g. must/should statements about minimum performance expectations/criteria)&#x20;
 4. data model requirements (often described in graphical format as an Entity-Relationship diagram or UML Class model, etc)&#x20;
