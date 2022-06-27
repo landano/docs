@@ -9,10 +9,11 @@
 
 ## User manual
 
-* [Import data](use-cases/import-data.md)
-* [Register land title](use-cases/register-land-title.md)
-* [Verify ownership](use-cases/verify-ownership.md)
-* [Transfer land title](use-cases/transfer-land-title.md)
+* [Create account](use-cases/import-data.md)
+* [Acquire land right](use-cases/register-land-title.md)
+* [Grant land right](user-manual/grant-land-right.md)
+* [Prove land right](use-cases/verify-ownership.md)
+* [Transfer land right](use-cases/transfer-land-title.md)
 
 ## Concepts
 
