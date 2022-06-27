@@ -43,4 +43,8 @@ Some examples include:
 
 `As a Village Chief, I want to access the Cadastral boundaries of our communal land so that I can accurately manage my fiduciary responsibilities.`
 
+As a Land User, I want to access the layout map of the communal land so that I can accurately determine the location of land parcels.
+
+****
+
 ****
