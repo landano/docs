@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documentation](README.md)
+* [Using Landano](README.md)
 
 ## Installation
 

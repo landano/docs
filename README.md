@@ -1,10 +1,11 @@
 ---
 description: >-
-  Landano is a decentralized App (dApp) for land records that is integrated with
-  the Cardano blockchain and self-sovereign data solutions.
+  Landano provides an interface to decentralized land right records. You can use
+  Landano to assign, transfer and prove legal rights associated with land
+  parcels.
 ---
 
-# Documentation
+# Using Landano
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
