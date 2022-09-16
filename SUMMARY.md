@@ -2,18 +2,16 @@
 
 * [Using Landano](README.md)
 
-## Installation
+## Solution concept
 
-* [Smartphone app](installation/smartphone-app.md)
-* [Web app](installation/web-app.md)
+* [The problem](solution-concept/smartphone-app.md)
+* [The solution](solution-concept/web-app.md)
 
-## User manual
+## Technical architecture
 
-* [Create account](use-cases/import-data.md)
-* [Acquire land right](use-cases/register-land-title.md)
-* [Grant land right](user-manual/grant-land-right.md)
-* [Prove land right](use-cases/verify-ownership.md)
-* [Transfer land right](use-cases/transfer-land-title.md)
+* [Mendix low-code platform](technical-architecture/import-data.md)
+* [Cardano NFT](technical-architecture/register-land-title.md)
+* [Arweave storage](technical-architecture/arweave-storage.md)
 
 ## Concepts
 
