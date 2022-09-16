@@ -13,21 +13,18 @@
 * [Cardano NFT](technical-architecture/register-land-title.md)
 * [Arweave storage](technical-architecture/arweave-storage.md)
 
-## Concepts
+## User stories
 
-* [Land rights](concepts/land-rights.md)
-* [Land registry](fundamentals/land-registries/README.md)
-* [Cadastral map](fundamentals/land-registries/cadastral-maps.md)
-* [Land administration](concepts/land-administration.md)
-* [Records management](fundamentals/records-management/README.md)
-* [Cardano blockchain](concepts/blockchain.md)
+* [Assign right](user-stories/cadastral-maps.md)
+* [Acquire right](user-stories/land-rights.md)
+* [Prove right](user-stories/prove-right.md)
+* [Transfer right](user-stories/land-registries.md)
 
 ## Jurisdictions
 
 * [Ghana](countries/ghana.md)
 * [Mozambique](countries/mozambique.md)
 * [Kenya](countries/kenya.md)
-* [Canada](countries/canada.md)
 
 ## Resources
 
