@@ -1,3 +1,3 @@
-# Smartphone app
+# The problem
 
-![](../.gitbook/assets/smartphone.png)
+some stuff
