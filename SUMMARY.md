@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introducing Landano](README.md)
+  * [The land rights problem](readme/the-land-rights-problem.md)
+  * [The Landano solution](readme/the-landano-solution.md)
 * [Use cases](use-cases/README.md)
   * [Administer land rights](use-cases/administer-land-rights.md)
   * [Acquire land right](use-cases/acquire-land-right.md)
