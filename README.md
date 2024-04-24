@@ -10,7 +10,7 @@ description: >-
 
 Landano provides convenient access to legally-compliant land right documentation via a mobile app and web browser.&#x20;
 
-Landano allows for ownership verification, trustworthy sale transactions and transfers of other types of land rights while opening the door to new DeFi lending opportunities on the Cardano blockchain.
+Landano allows for ownership verification, trustworthy sale transactions and transfers of other types of land rights while opening the door to new DeFi lending opportunities on the [Cardano](https://cardano.org) blockchain.
 
 ### Learn more
 
