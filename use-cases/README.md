@@ -1,3 +1,9 @@
+---
+description: >-
+  The following use case scenarios describe the core functionality of the
+  Landano platform.
+---
+
 # Use cases
 
 
