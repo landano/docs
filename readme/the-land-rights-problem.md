@@ -8,9 +8,7 @@ Land and home insecurity is a global problem with some estimates that 5.5 billio
 
 
 
-<figure><img src="../.gitbook/assets/2020-Prindex--Global-tenure-insecurity.png" alt=""><figcaption><p>Global tenure insecurity</p></figcaption></figure>
-
-source: [https://www.prindex.net/reports/prindex-comparative-report-july-2020/](https://www.prindex.net/reports/prindex-comparative-report-july-2020/)
+<figure><img src="../.gitbook/assets/2020-Prindex--Global-tenure-insecurity.png" alt=""><figcaption><p>source: <a href="https://www.prindex.net/reports/prindex-comparative-report-july-2020/">https://www.prindex.net/reports/prindex-comparative-report-july-2020/</a></p></figcaption></figure>
 
 Many centralized, government-run land tenure systems are falling short. They are difficult to access and tend to be expensive, time-consuming, and opaque while also vulnerable to corruption and fraud. Most are a hybrid system of various digital systems combined with hard-copy records. These physical documents are prone to mishandling and mismanagement. \
 \
