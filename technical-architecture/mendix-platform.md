@@ -22,6 +22,10 @@ Mendix Studio allows our Landano team to develop on one core code base and use i
 
 <figure><img src="../.gitbook/assets/screenshot-2024-04-23-at-5.35.53 pm.png" alt=""><figcaption><p>Mendix Studio</p></figcaption></figure>
 
+Mendix interprets the resulting model at runtime thereby maintaining the bond between model and application which improves greatly upon managing legacy code and technical debt once a platform is in production. \
+\
+Direct model execution also removes code generation overhead and provides significant advantages by accommodating live changes and consistency checks, controlled extensions, and dynamic monitoring analysis at runtime.
+
 ### Sharing our Mendix-to-Cardano tooling
 
 The Landano project has created generic Cardano plugins for the Mendix Marketplace using the tooling we've developed to create our own product. This will allow the large ecosystem of Mendix enterprise developers to use Cardano NFTs and smart contracts from within their development environments directly. These Mendix Marketplace plugins open the Cardano blockchain ecosystem to a large and active enterprise developer community.\
