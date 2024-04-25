@@ -8,9 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/mendix-1-300x84.png" alt=""><figcaption></figcaption></figure>
 
-[Mendix](https://mendix.com) is primarily used to create and manage large portfolios of business-critical applications across organizational and technical boundaries. It is an integrated application platform-as-a-service (aPaaS) offering for designing, building, deploying, and managing enterprise apps. \
-\
-Mendix applications are cloud native by default making all components built on the platform very scalable, resilient, and portable. The low-code methodology also means developers can use Mendix to deliver software quickly to ensure that products and services are brought to market faster while optimizing operational processes.
+[Mendix](./) applications are cloud native by default making all components built on the platform very scalable, resilient, and portable. The low-code methodology also means developers can use Mendix to deliver software quickly to ensure that products and services are brought to market faster while optimizing operational processes.
 
 <figure><img src="../.gitbook/assets/screenshot-2024-04-23-at-5.26.23 pm.png" alt=""><figcaption><p>The Mendix platform</p></figcaption></figure>
 
