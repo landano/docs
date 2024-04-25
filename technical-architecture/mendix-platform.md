@@ -1,5 +1,7 @@
 ---
-description: How Landano leverages the Mendix low-code platform
+description: >-
+  Landano is Cardano-native platform that uses Mendix for its off-chain
+  components
 ---
 
 # Mendix platform
