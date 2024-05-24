@@ -12,7 +12,7 @@ Starting in sub-Saharan Africa, Landano fills a market opportunity in land admin
 \
 Landano offers these traditional leaders a user-friendly application to move land administration from an informal, verbal system (which leaves room for mismanagement, miscommunication and fraud) to a high-quality land administration system that is backed by Cardano blockchain proofs to eliminate double-spending, corruption, and memory loss.&#x20;
 
-Landano is different than preceding land registry reformation initiatives because we are working directly with traditional leaders in this bottom-up, decentralized approach. Our methodology respects and strengthens the role of traditional leaders in the land administration process. At the same time, we help to ensure that their records are interoperable, compliant and registered with the centralized government agencies responsible for cadastral and land registry functions.&#x20;
+Landano is different than preceding land registry reformation initiatives because we are working directly with traditional leaders in this bottom-up, decentralized approach. Our methodology respects and strengthens the role of traditional leaders in the land administration process. At the same time, we help to ensure that their records are interoperable, compatible and registered with the centralized government agencies responsible for cadastral and land registry functions.&#x20;
 
 <figure><img src="../.gitbook/assets/IMG_1680_graded (1).jpeg" alt=""><figcaption><p>Landano pilot project in Northern Ghana</p></figcaption></figure>
 
