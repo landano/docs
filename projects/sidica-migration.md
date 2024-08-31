@@ -6,7 +6,8 @@ This project was Funded through Project Catalyst F8. It has experienced signific
 \
 This project is a collaboration between Landano International and Terra Firma land right consultancy in Mozambique.  Terra Firma approached Landano to help connect its various databases of land right records to new DeFi opportunities by tokenizing its records as Cardano NFTs.\
 \
-This was originally intended to be a database of approximately 80k land right declarations and cadastral records. However, a variety of political pressures, grant requirements, and technical delays meant this migration no longer became feasible.\
+![](<../.gitbook/assets/Screenshot 2024-08-31 at 1.24.51 PM.png>)\
+This was originally intended to be a database of approximately 80k Mozambican land right declarations and cadastral records. However, a variety of political pressures, grant requirements, and technical delays meant this migration no longer became feasible.\
 \
 Instead, Terra Firma developed a more streamlined version of its land right declration tool and tested it with a similar market in Zambia. This process provided a good test case for a more user-centric applicaiton interface and functionality.\
 \
