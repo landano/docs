@@ -11,7 +11,3 @@
   * [Administer land rights](use-cases/administer-land-rights.md)
   * [Acquire land right](use-cases/acquire-land-right.md)
   * [Verify land right](use-cases/verify-land-right.md)
-* [Projects](projects/README.md)
-  * [SiDiCa migration](projects/sidica-migration.md)
-  * [Mendix plugin](projects/mendix-plugin.md)
-  * [Cardano Foundation ID wallet](projects/cardano-foundation-id-wallet.md)
