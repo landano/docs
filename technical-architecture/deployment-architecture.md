@@ -2,6 +2,7 @@
 description: >-
   Landano is a Cardano-native platform that uses Mendix Cloud to host its
   off-chain infrastructure
+hidden: true
 ---
 
 # Deployment architecture
