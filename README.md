@@ -1,19 +1,13 @@
 ---
-description: >-
-  Landano is a software platform that manages decentralized land right records
-  on the Cardano blockchain.
+description: Opening the RWA door to Bitcoin holders
 ---
 
 # Introducing Landano
 
-<figure><img src=".gitbook/assets/2024-04-24--Landano-UIs-concept.png" alt=""><figcaption><p>The Landano solution</p></figcaption></figure>
+Landano unlocks a $1+ trillion sales opportunity in the global real estate market by giving Bitcoin holders access to land investments for the first time.&#x20;
 
-Landano provides convenient access to legally-compatible land right documentation via a mobile app and web browser.&#x20;
+As one of the first Bitcoin RWA (Real-World Asset) projects, Landano transforms land ownership by tokenizing property titles using Cardano NFTs and mirroring them on Bitcoin as Rune tokens.
 
-Landano allows for ownership verification, trustworthy sale transactions and transfers of other types of land rights while opening the door to new DeFi lending opportunities on the [Cardano](https://cardano.org) blockchain.
+This cross-chain design—powered by a Wanchain bridge—combines the decentralized security of Bitcoin with the smart contract functionality of Cardano, creating a secure, verifiable, and tradable framework for land rights. It offers institutional-grade trust and scalable infrastructure for land registries, governments, and investors worldwide.
 
-### Learn more
-
-* [What is the problem Landano is trying solve?](readme/the-land-rights-problem.md)
-* [What make Landano different?](readme/the-landano-solution.md)
-* [How is Landano developed?](technical-architecture/)
+With over 24,000 land records already uploaded to the Cardano testnet and pilot programs underway in Africa, Landano is leading the charge in real estate tokenization—bringing secure property rights, DeFi-enabled land finance, and economic inclusion to billions.
