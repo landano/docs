@@ -8,3 +8,7 @@
   * [Mendix platform](technical-architecture/mendix-platform.md)
   * [Deployment architecture](technical-architecture/deployment-architecture.md)
   * [Domain-driven development](technical-architecture/domain-driven-development.md)
+
+## Tokenomics
+
+* [Distribution](tokenomics/distribution.md)
