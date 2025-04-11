@@ -5,8 +5,8 @@ description: >-
   land right records.
 ---
 
-# Use cases
+# Product Features
 
-1. [Administer land rights](administer-land-rights.md)
-2. [Acquire land right](acquire-land-right.md)
+1. [Administer land rights](administrator.md)
+2. [Acquire land right](right-holder.md)
 3. [Verify land right](verify-land-right.md)
