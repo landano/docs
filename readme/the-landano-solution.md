@@ -8,13 +8,11 @@ The Global Land Ownership Crisis
 
 With 5 billion people lacking formal land records, Landano is positioned as a first-mover solution in an underserved $1+ trillion global market. The platform is gaining traction in Ghana and Mozambique, with over 24,000 land records already uploaded to the Cardano testnet and partnerships covering over 5 million people.
 
-* 1 billion people live under daily risk of land loss due to outdated or corrupt systems.
-* High costs and inefficiency plague traditional land registries, hindering secure transactions.
-
-#### Why Africa First?
+**Why Africa First?**
 
 * 121 million people in sub-Saharan Africa fear losing their land within five years.
 * No major blockchain competitors focusing on land title digitization for customary landowners.
+* High costs and inefficiency plague traditional land registries, hindering secure transactions.
 * Africa’s successful leapfrogging of technology adoption (e.g., mobile banking) provides a scalable entry model.
 * Customary governance structures allow a bureaucracy-free expansion strategy.
 
