@@ -20,10 +20,15 @@ A complete example project is included, showcasing real use cases such as wallet
 
 To use the plugin, ensure you have:
 
-* Mendix Studio Pro 10.x
-* Java 11+ (required for custom runtime actions)
+* Mendix Studio Pro 10.18.4 (or higher)\
+  ([https://marketplace.mendix.com/link/studiopro](https://marketplace.mendix.com/link/studiopro))
+* Java 11+ (required for Mendix)
 * A Blockfrost API key (testnet or mainnet)
 * Optional: Pinata IPFS API keys (for NFT media)
+
+The plugin can be found on our github repository:
+
+[https://github.com/landano/cardano-mx-plugin/releases/tag/release-candidate](https://github.com/landano/cardano-mx-plugin/releases/tag/release-candidate)
 
 ***
 
@@ -39,6 +44,16 @@ We recommend starting with the provided full-featured demo app, which includes:
 * ADA transactions
 * NFT minting and metadata
 * Multi-sig and smart contracts
+
+To use the mpk file do the following:
+
+1. Open **Mendix Studio Pro**.
+2. Go to **File > Import App Package**.
+3. Select the `.mpk` file.
+4. Choose a folder to extract the app into.
+5. Mendix will unpack the app and open it as a new project.
+
+This gives you a **full app environment**, including modules, layouts, pages, microflows, et
 
 **Option 2: Import Modules Manually**
 

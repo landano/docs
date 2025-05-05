@@ -53,12 +53,13 @@ You can integrate it into both **Mendix Web** and **Mendix Native Mobile** appli
 
 ***
 
-#### 📦 **Requirements**
+#### **(System) Requirements**
 
-* Mendix 10.x
-* Java 11+ (for custom runtime actions)
-* GitBook knowledge base (this site!)
-* Cardano Node or Blockfrost (depending on setup)
+* Mendix Studio Pro 10.18.4 (or higher)\
+  ([https://marketplace.mendix.com/link/studiopro](https://marketplace.mendix.com/link/studiopro))
+* Java 11+ (required for custom runtime actions)
+* A Blockfrost API key (testnet or mainnet)
+* Optional: Pinata IPFS API keys (for NFT media)
 
 ***
 
