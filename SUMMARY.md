@@ -19,3 +19,4 @@
   * [API Reference](cardano-mendix-plugin/api-reference.md)
   * [FAQs](cardano-mendix-plugin/faqs.md)
   * [Changelog & Contact](cardano-mendix-plugin/changelog-and-contact.md)
+* [Landano Veridian Integration](landano-veridian-integration.md)
