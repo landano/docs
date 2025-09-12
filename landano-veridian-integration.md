@@ -19,3 +19,13 @@ The project proposal can be found at: [https://projectcatalyst.io/funds/12/carda
 [Preliminary Integration - Landano vs Veridian - Watch Video](https://www.loom.com/share/cf30f387ce414f4e8e9399f4b68e9837)
 
 [![](https://cdn.loom.com/sessions/thumbnails/cf30f387ce414f4e8e9399f4b68e9837-734e18ef34c30a1a-full-play.gif)](https://www.loom.com/share/cf30f387ce414f4e8e9399f4b68e9837)
+
+### Committee Approval
+
+On the 11th of September 2025 the committee has approved the prototype and the Design Document.
+
+The members of the committee are:
+
+Aaron Moguin (Landano)\
+Dorus van der Kroft (Landano)\
+Fergal O'Connor (Cardano Foundation)
