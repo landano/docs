@@ -16,6 +16,8 @@ Aaron Moguin: Project Manager (COO, Landano)\
 Dorus van der Kroft: Software Lead (CTO, Landano)\
 Fergal O'Connor: External Review (Identity Solutions Lead Architect, Cardano Foundation)
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Milestone 1 Acceptance Criteria
 
 #### Committee Approval
