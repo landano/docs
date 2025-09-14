@@ -16,13 +16,21 @@ Aaron Moguin: Project Manager (COO, Landano)\
 Dorus van der Kroft: Software Lead (CTO, Landano)\
 Fergal O'Connor: External Review (Identity Solutions Lead Architect, Cardano Foundation)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 ### Milestone 1 Acceptance Criteria
 
 #### Committee Approval
 
-On the 11th of September 2025 the review committee approved the prototype and the Design Document for submission.
+On the 11th of September 2025 (and clarified on 14 September) the review committee approved the prototype and the Design Document for submission:
+
+<figure><img src=".gitbook/assets/Screenshot 2025-09-14 at 10.08.11 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2025-09-14 at 10.00.13 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2025-09-14 at 10.16.20 PM.png" alt=""><figcaption></figcaption></figure>
+
+
 
 **Design Document**
 
